@@ -38,7 +38,7 @@ The app takes a user query, gathers recent web research, analyzes the findings, 
 
 ## Requirements
 
-- Python 3.11 or newer
+- Python 3.14 or newer
 - Groq API key
 - Tavily API key
 
