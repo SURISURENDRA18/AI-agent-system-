@@ -1,0 +1,14 @@
+langgraph>=1.2.0
+langchain-core>=1.4.0
+langsmith>=0.9.0
+
+groq>=1.5.0
+tavily-python>=0.3.3
+
+fastapi>=0.111.0
+uvicorn>=0.30.0
+
+streamlit>=1.35.0
+
+python-dotenv>=1.0.0
+requests>=2.32.0
